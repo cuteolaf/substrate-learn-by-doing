@@ -1,0 +1,11 @@
+seed: vessel weapon someone senior like fat ranch become acoustic double maple warfare
+aura: 0x8a7425a11367c1f1b3fa5cc96d84eee2ad002a943600ff0e93a0a770a0ba7759
+aura: 5FCEy6yyURcQhQtCVrtHueMRNveGCCe1RwAsfWE9FMAP5Wm6
+grandpa: 0x83fc78c63a5c7e33a0b6a4173016123ab8ee2ba8d1c4d7f8b39a66a5ebc141f4
+grandpa: 5F3m8V2uu71gqGzMyBFL8D8MfrxRTEc8wSc73WuJaQxdiLjh
+
+seed: start absent buffalo source fantasy solution glove eight laundry frequent away road
+aura: 0x5ab7962377ede095ff103e81cb2515572f99137f0ef0f1285567211377483332
+aura: 5E7ehkMXRy9k4HCthzeoJFvBHpP9fZ2Whnotkxma3gVFA4iY
+grandpa: 0xa0246e7781b4240f53de61eb3dee14eb6f2e66cb25b8ce93a2999d311f00a18f
+grandpa: 5FggLjph99XzHm56qAPW5QABEyfH6d3uk6QpSfWNtVBNpCVy
