@@ -1,0 +1,22 @@
+{
+    "Alice": {
+        "nodeKey": "3cf99ea95c826574e331db24997ca093127cfb5ce7d592969c9a1ad7aeb682d2",
+        "peerId": "12D3KooWAQ7mwUmXn2pXD2iwq1ZpvSdnZFrZ5e6MC1dAPChEMCjA",
+        "decoded": "00240801122008a5791c6ba3b15eecd32016775606a6cca96cb88171f529fe946cf4196fc4c9"
+    },
+    "Bob": {
+        "nodeKey": "fa0702d47d52167ba2542fcfb156287c2438b3aa6697dafa97a156746dd753bf",
+        "peerId": "12D3KooWGJ4Gb1YjVPjjGuTd7cx3A3uHFamXxFHH69tfbKKmahyE",
+        "decoded": "002408011220603e253c441695f95bc920a50bd0d5ad94eee95f91c3fad35ef0ef2b84884f05"
+    },
+    "Charlie": {
+        "nodeKey": "3154fd571ddbdc0229b4e2a4b0f0b8f076d008ad1780383982189fc06f176ca0",
+        "peerId": "12D3KooWN3C77qmJ2XJ1eF5z5QY4CTDoPfWTcKHqT7NujXTssaij",
+        "decoded": "002408011220b5956a797464071e10121b3c93875df0eb4505d6c85c28014e9d3bbbb07be8c8"
+    },
+    "Dave": {
+        "nodeKey": "633b7ca84d1cb24fc41da4448bd86c169d8520fb0472c86ffbe985cd7defdc60",
+        "peerId": "12D3KooWEASnJ34LW2sFELdVpNpykVeyfksEm7gzzeAjLhFWNqDt",
+        "decoded": "0024080112204093946a403db7a26e29cbed885e9de28e8d324bb3a8d3843eaf6aa1a2f3ea03"
+    }
+}
